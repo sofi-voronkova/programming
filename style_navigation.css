@@ -1,0 +1,50 @@
+aside{
+    background: gray;
+    color: white;
+    width: 20%;
+    height: 100vh;
+    float: left;
+}
+.logo{
+    width: 300px;
+    height: 100px;
+    margin: 20px 20px 20px 20px;
+    
+}
+h3{
+     margin: 20px 20px 20px 20px;
+    
+}
+aside ul{
+    list-style: none;
+    font-size: 20px;
+    margin-left: -20px;
+}
+aside ul li{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+# по€вл€етс€ розовый бекграунд тк img внутри aside
+#aside li a:hover {
+ #   background: green;
+#}
+
+aside li a:hover {
+    background: pink;
+}
+
+.active {
+    background: powderblue;
+}
+.content{
+   margin-left: 400px;
+   width: 80%;
+   height: 100vh;
+   background-image: url("hse_content.jpg");
+   /* ширина - 400px и высота - 300px */
+   #background-size: 400px 300px;
+   #background: red;
+   background-size:cover;# все целиком
+    
+}
